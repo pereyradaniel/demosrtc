@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   bottom: 100px;
   right: 0;
-  background-color: rgba(213, 57, 57, 0.79);
+  background-color:#1c86ffcb;
   z-index: 10000;
 }
 
