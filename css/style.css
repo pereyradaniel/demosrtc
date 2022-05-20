@@ -90,20 +90,12 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #0066db;
 }
 
-.fixed-bottom h3{
-    /* text-orientation: sideways;
-    writing-mode: vertical-rl; */
-    color: white;
-    text-align: center;
-    /* padding-top: 9px; */
-    font-weight: 500;
-}
 
 @media (max-width: 768px) {
   .fixed-bottom .service-icon-2 a {
-    font-size: 19px;
+    font-size: 17px;
     padding-top: 12px;
-    font-weight: 700;
+    font-weight: 500;
 
   }
 }
