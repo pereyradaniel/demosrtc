@@ -95,24 +95,20 @@ h1, h2, h3, h4, h5, h6 {
     writing-mode: vertical-rl; */
     color: white;
     text-align: center;
-    padding-top: 9px;
+    /* padding-top: 9px; */
     font-weight: 500;
 }
 
-.fixed-bottom h3:hover{
-  font-weight: 700;
+.fixed-bottom .service-icon-2{
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  padding:10px;
+ }
 
-}
-@media (max-width: 768px) {
-  .fixed-bottom h3 {
-    font-size: 20px;
-    padding-top: 12px;
-    font-weight: 700;
-
-  }
-}
-
-
+ .fixed-bottom .service-icon-2 a {
+   color: white;
+ }
 
 #hero {
   display: table;
