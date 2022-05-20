@@ -76,6 +76,23 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Welcome
 --------------------------------------------------------------*/
+.fixed-bottom{
+  position: fixed;
+  bottom: 100px;
+  right: 10px;
+  background-color: rgba(213, 57, 57, 0.79);
+}
+
+.fixed-bottom h3{
+    text-orientation: sideways;
+    writing-mode: vertical-rl;
+    color: white;
+    text-align: center;
+    padding: 15px 5px 5px 5px;
+
+}
+
+
 #hero {
   display: table;
   width: 100%;
