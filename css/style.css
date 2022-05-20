@@ -94,8 +94,13 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 768px) {
   .fixed-bottom .service-icon-2 a {
     font-size: 17px;
+    line-height: 22px;
     padding-top: 12px;
     font-weight: 500;
+
+  }
+  .fixed-bottom{
+    height:60px
 
   }
 }
